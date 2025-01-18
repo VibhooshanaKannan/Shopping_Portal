@@ -7,11 +7,13 @@ It allows users to browse, purchase items, and generate invoices. Admins can man
 Admin Panel:
    - View product details.
    - View unavailable stock.
+     
 User Panel:
    - Browse products (Pendrives, Headphones, Speakers, Printers, Wireless Mouse).
    - Add products to the cart.
    - Generate a detailed bill after shopping.
    - Captcha-based user verification.
+     
 Products:
    - Pendrive
    - Headphones
